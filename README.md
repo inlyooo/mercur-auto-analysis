@@ -17,8 +17,4 @@ python clean_data.py autokz2019.csv --output autokz2019_clean.csv
 jupyter notebook analysis.ipynb
 ```
 
-Исходный CSV лежит рядом с кодом. В ноутбуке экспорт сохраняется с датами в формате YYYY-MM-DD. Типы datetime и category задаются в Python, сам формат CSV их не хранит
-
-Возвраты, оптовые и экспортные продажи сохранены. Основные показатели рынка рассчитаны без экспорта. Неопределённые характеристики оставлены пустыми
-
 Источник: [материалы задания](https://disk.yandex.ru/d/OmlexqoVSR6mwg)
