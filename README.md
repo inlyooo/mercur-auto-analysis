@@ -4,7 +4,7 @@
 
 Кислицын Дмитрий Геннадьевич, М26-555
 
-- [Отчёт](report.md)
+- [Отчёт в Word](report.docx)
 - [Анализ и графики](analysis.ipynb)
 - [Очищенный CSV](autokz2019_clean.csv)
 - [Скрипт очистки](clean_data.py)
